@@ -28,4 +28,8 @@
 
 <h2><strong>프로젝트 설명</strong></h2>
 
-자세한 내용은 <a href="http://www.changoos.com/projects/14">이곳</a>을 참조해주세요.
+자세한 내용은 <a href="http://www.changoos.com/projects/14">이곳</a>을 참조해주세요.\
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
